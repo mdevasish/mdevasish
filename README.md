@@ -12,5 +12,5 @@ IT Professional with an experience of around 4+ years in the areas of QA, Data A
 - 💬 Ask me about Machine Learning, Data Visualisations, Deep Learning
 - 📫 How to reach me: @mdevasish@gmail.com  
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love cycling, playing chess and settlers of Catan
+- ⚡ Fun fact: I love cycling, playing chess and Settlers of Catan
 
