@@ -16,7 +16,7 @@ IT Professional with an experience of around 4+ years in the areas of QA, Data A
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-
+<br />
 - 🔭 I’m currently working on Deep Learning
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Machine Learning assignments
