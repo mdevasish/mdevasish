@@ -17,6 +17,7 @@ IT Professional with an experience of around 4+ years in the areas of QA, Data A
 
 <br />
 <br />
+
 - 🔭 I’m currently working on Deep Learning
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Machine Learning assignments
