@@ -14,3 +14,5 @@ IT Professional with an experience of around 4+ years in the areas of QA, Data A
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cycling, playing chess and Settlers of Catan
 
+
+<img align="left" alt="mdevasish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdevasish&show_icons=true&hide_border=true" />
