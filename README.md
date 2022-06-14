@@ -2,7 +2,7 @@
 
 About me :
 
-IT Professional with an experience of around 4+ years in the areas of QA, Data Analytics and Machine Learning. Worked extensively in Telecom, Supply Chain and Aviation industries. Innovative and self-driven analytics professional with recognized abilities in ETL process, Detail-Oriented analysis, Story telling, Machine Learning, and Deep Learning. Aspiring Data Science professional committed to continuous learning and in bringing positive changes to the organization, team, and people. 
+IT Professional with an experience of around 6+ years in the areas of QA, Data Analytics and Machine Learning. Worked extensively in Telecom, Supply Chain and Aviation industries. Innovative and self-driven analytics professional with recognized abilities in ETL process, Detail-Oriented analysis, Story telling, Machine Learning, and Deep Learning. Aspiring Data Science professional committed to continuous learning and in bringing positive changes to the organization, team, and people. 
 <br />
 
 - 🔭 I’m currently working on Deep Learning
